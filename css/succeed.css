@@ -1,0 +1,17 @@
+body { background-image: url(../resources/layout/Back.jpg); background-position: center 0; }
+p { }
+.TDcontent { color: #292929; font-size: 13px; font-family: Arial, Verdana, Helvetica, sans-serif; padding-right: 48px; }
+.TDhome { color: #292929; font-size: 13px; font-family: Arial, Verdana, Helvetica, sans-serif; padding-right: 84px; padding-left: 84px; }
+.text { color: #292929; font-size: 13px; font-family: Arial, Verdana, Helvetica, sans-serif; }
+.cit { color: #292929; font-size: 13px; font-family: Arial, Verdana, Helvetica, sans-serif; font-weight: bold; font-style: italic; }
+.hint { color: #292929; font-size: 11px; font-family: Arial, Verdana, Helvetica, sans-serif; font-style: italic; }
+H1 { color: #292929; font-size: 16px; font-family: Arial, Verdana, Helvetica, sans-serif; font-weight: bold; }
+H2 { color: #292929; font-size: 14px; font-family: Arial, Verdana, Helvetica, sans-serif; font-weight: bold; }
+a:link { color: #c15f38; font-size: 13px; font-family: Arial, Verdana, Helvetica, sans-serif; text-decoration: none; }
+a:visited { color: #c15f38; font-size: 13px; font-family: Arial, Verdana, Helvetica, sans-serif; text-decoration: none; }
+a:hover { color: #116eab; font-size: 13px; font-family: Arial, Verdana, Helvetica, sans-serif; text-decoration: underline; }
+a.menu:link { color: #fff; font-size: 13px; font-family: Arial, Verdana, Helvetica, sans-serif; text-decoration: none; }
+a.menu:visited { color: #fff; font-size: 13px; font-family: Arial, Verdana, Helvetica, sans-serif; text-decoration: none; }
+a.menu:hover { color: #fff; font-size: 13px; font-family: Arial, Verdana, Helvetica, sans-serif; text-decoration: underline; }
+#formularfeld { color: #0c4f7b; font-size: 13px; font-family: "Courier New", Courier, Monaco, monospace; width: 100%; }
+li { color: #151515; font-size: 13px; font-family: Arial, Verdana, Helvetica, sans-serif; list-style-type: disc; }
